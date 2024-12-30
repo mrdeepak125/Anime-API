@@ -1066,10 +1066,3 @@ console.log(data);
 > Kindly use this repo to make Front End
 
   - [Eltik / Anify](https://github.com/Eltik/Anify) 
-  
-#############################################################################
-
-## <span>🤝 Thanks ❤️</span>
-
-- [consumet.ts](https://github.com/consumet/consumet.ts)
-- [ghoshRitesh12](https://github.com/ghoshRitesh12)
